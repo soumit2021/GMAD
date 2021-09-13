@@ -6,3 +6,6 @@ Some say climate change is the greatest threat of our time, others say it's a my
 ### Average global temperature including uncertainty
 I visualized approximately 160 years of data according to their average, minimum and maximum values. In just 160 years, the average temperature has risen by 2 degrees Celsius.
 ![alt text](img/C1.PNG)
+
+### average temperature values ​​without min and max values.
+![alt text](img/c2.PNG)
